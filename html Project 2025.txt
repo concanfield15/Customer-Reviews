@@ -31,7 +31,8 @@ Testomonials </font> </u> </h2>
 <br>
 <h3> <font face="Helvetica" style="color:darkslategray"> <u> Customer 
 
-Review Scores <br></font> </u> </h3>
+Review Scores <br> </font> </u>
+</h3>
 <b6> <font face="Helvetica" style="color:blue" size="4">
 Overall Service:    4.4/5 <br>
 -  Devices:         4.2/5 <br>
@@ -56,6 +57,7 @@ Contact: <a href="mailto:ccanfie@purdue.edu">ccanfie@purdue.edu</a> for more det
 <br>
 <script>document.write(document.lastModified);</script>
 </body>
+
 
 
 
